@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from '.views/Home.vue'
+import Wing from '.views/Wing.vue'
 Vue.use(Router)
 
 const router = new Router({
@@ -8,12 +8,11 @@ const router = new Router({
     base: process.env.BASE_URL,
     routes: [
         {
-            path:'/',
-            name: 'home',
+            path:'/wing',
+            name: 'wing',
             component: Home,
-            meta: {
-
-            }
         },
     ]
-})
+});
+
+export default router;

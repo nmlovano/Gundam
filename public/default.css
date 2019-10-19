@@ -1,0 +1,21 @@
+html, body
+    {
+        height: 100%;
+    }
+
+    body{
+        margin: 0px;
+        padding: 0px;
+        background: black;
+    }
+    h1{
+        text-align: center;
+        padding: 10px;
+        color: #ffffff;
+    }
+    p{
+        margin: 20px;
+        padding: 5px;
+        color: #ffffff;
+        font-size: 125%;
+    }
