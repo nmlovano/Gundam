@@ -19,3 +19,13 @@ html, body
         color: #ffffff;
         font-size: 125%;
     }
+    div{
+        flex: wrap;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 25px;
+    }
+    img{
+        width: 50%;
+    }
