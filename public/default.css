@@ -29,3 +29,17 @@ html, body
     img{
         width: 50%;
     }
+    .group{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 35%;
+        padding: 15px;
+    }
+    .gundams{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 35%;
+        padding: 15px;
+    }
