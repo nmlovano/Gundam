@@ -13,6 +13,9 @@ html, body
         padding: 10px;
         color: #ffffff;
     }
+    h2{
+        color: blue;
+    }
     p{
         margin: 20px;
         padding: 5px;
@@ -42,4 +45,8 @@ html, body
         margin-right: auto;
         width: 35%;
         padding: 15px;
+    }
+    .home-button{
+        margin-left: 0px;
+        width: 5%;
     }
